@@ -37,17 +37,5 @@ onLoad(() => {
     <view class="m-auto mb-2 max-w-100 text-justify indent text-4">
       {{ description }}
     </view>
-    <view class="mt-4 text-center">
-      作者：
-      <text class="text-green-500">
-        菲鸽
-      </text>
-    </view>
-    <view class="mt-4 text-center">
-      官网地址：
-      <text class="text-green-500">
-        https://unibest.tech
-      </text>
-    </view>
   </view>
 </template>

@@ -228,9 +228,3 @@ A: 有伙伴反馈过接入的原生插件之前使用【Lastly1999】提交的�
 2. 插件配置是否正确
 3. 目录结构是否符合规范
 4. 环境变量是否正确设置
-
-## 特别声明及感谢
-
-- 感谢【Lastly1999】，此插件时基于他pr的代码进行的还原和修改。[fix: app-plus、dev/prod、nativeResources插件未被正确移](https://gitee.com/feige996/unibest/commit/22e0bd5cfb47a4927373fe88be6809216f43d046)
-- 感谢【菲鸽】造了这么好用的框架
-

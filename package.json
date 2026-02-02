@@ -1,18 +1,16 @@
 {
-  "name": "unibest",
+  "name": "unispark",
   "type": "module",
   "version": "4.3.0",
   "unibest-version": "4.3.0",
   "unibest-update-time": "2026-01-10",
   "packageManager": "pnpm@10.10.0",
-  "description": "unibest - 最好的 uniapp 开发模板",
-  "generate-time": "用户创建项目时生成",
+  "description": "This project is adapted from the unibest project by the author 'Feige'.",
+  "generate-time": "2026-2-2 12:00:00",
   "author": {
-    "name": "feige996",
-    "zhName": "菲鸽",
-    "email": "1020103647@qq.com",
-    "github": "https://github.com/feige996",
-    "gitee": "https://gitee.com/feige996"
+    "name": "Cymrise",
+    "zhName": "Cymrise",
+    "email": "cymrise@icloud.com"
   },
   "license": "MIT",
   "homepage": "https://unibest.tech",
